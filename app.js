@@ -8,7 +8,7 @@ var outputDiv = document.querySelector("#output");
 var serverURL = "https://api.funtranslations.com/translate/minion.json"
 // outputDiv.innerText = "vinla";
 
-console.log(outputDiv);
+
 
 // console.log(txtInput)
 function getTranslationURL(text){
