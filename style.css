@@ -1,0 +1,24 @@
+:root{
+    --primary-color:  #FCE029;
+    --secondary-color: #0A75BC;
+    --tertiary-color: #A87A51;
+    --fourth-color: #949699;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nova+Round&display=swap');
+body{
+    font-family: 'Nova Round', cursive;
+    margin: 0px auto;
+    max-width: 100%;
+    width: 100%;
+}
+
+.header-design{
+    padding: 1rem;
+    text-align: center;
+    background-color: var(--secondary-color);
+    color: #FCE029;
+   
+    
+}
