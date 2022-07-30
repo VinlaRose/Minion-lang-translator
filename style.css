@@ -20,3 +20,24 @@ body{
     background-color: var(--secondary-color);
     color: #FCE029;   
 }
+
+.btn-design{
+    
+        
+        color: white;
+        background-color: #A87A51;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+}
+
+.footer-design{
+    padding: 1rem;
+    background-color: #FCE029;
+    color: #0A75BC;
+    text-align: center;
+}
